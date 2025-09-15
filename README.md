@@ -14,4 +14,6 @@ my balls itch
 
 - Super Mario World Development Sprites: https://tcrf.net/Development:Super_Mario_World_(SNES)/Sprites
 
+- Cave Story: https://www.cavestory.org/game-info/tilesets.php
+
 - to be expanded idk what other refs we can have lol
