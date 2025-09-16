@@ -2,14 +2,15 @@
 	"animations": {
 		"Walk": {
 			"frames": [
-				[0, 0, 16, 16],
-				[16, 0, 16, 16]
+				[0, 0, 19, 21],
+				[38, 2, 18, 19],
+				[19, 0, 19, 21]
 			],
 			"speed": 5.0,
 			"loop": true
 		},
 		"Stomped": {
-			"frames": [[32, 0, 16, 16]],
+			"frames": [[56, 12, 17, 9]],
 			"speed": 5.0,
 			"loop": true
 		}
@@ -20,7 +21,7 @@
 		"default": {
 			"SMB1": {
 				"source": "Goomba.png",
-				"rect": [0, 0, 48, 16]
+				"rect": [0, 0, 73, 21]
 			},
 			"SMBANN": {
 				"source": "DiscoGoomba.png",
